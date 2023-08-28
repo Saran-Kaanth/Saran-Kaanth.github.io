@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "f934cad52751e26c4f2d2c43813fc2c5",
-"assets/AssetManifest.smcbin": "5b68e3389a7f0f7c6784bcb2754ce3cd",
+const RESOURCES = {"assets/AssetManifest.json": "48917662c38d4c18540e9d4b478d8350",
+"assets/AssetManifest.smcbin": "1915cf653cb5b097b4ac17cb1bf54d5e",
 "assets/assets/icons/check.svg": "78a8c285951f0ad2697dbb6ee1bb6728",
 "assets/assets/icons/email.svg": "7a20d6ff00b11f93e0faf6527cedd655",
 "assets/assets/icons/github.svg": "fba2a8c218dd787708678e1e590db10b",
@@ -15,8 +15,11 @@ const RESOURCES = {"assets/AssetManifest.json": "f934cad52751e26c4f2d2c43813fc2c
 "assets/assets/images/elxsi.png": "902d0d1ffb2fef99930796605052af96",
 "assets/assets/images/galaxy_banner.jpg": "0d71985f3315abfe6d47f837b73154ce",
 "assets/assets/images/logo-deloitte.png": "ac4bf2698310a73b2ea38a37fed0802e",
+"assets/assets/images/profile_image.jpg": "3accac418d5414208fce96bb2ce4464f",
+"assets/assets/images/profile_three_image.png": "60e793494f0d5806c815f980c41cb8cd",
+"assets/assets/images/profile_two_image.jpg": "6456162051f6fa78de2067a1cf1456a6",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "172436b587c81f056e86da2cced8a0ac",
+"assets/fonts/MaterialIcons-Regular.otf": "93205b7f92ba95a8bf88e0d36c4c7f82",
 "assets/NOTICES": "f6711e140434b6e501b57065676c34b1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "5ac99533bd9dc46227434b4853c3e532",
@@ -36,9 +39,9 @@ const RESOURCES = {"assets/AssetManifest.json": "f934cad52751e26c4f2d2c43813fc2c
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c3bf5bcd63a05d21420118b8fd50285b",
-"/": "c3bf5bcd63a05d21420118b8fd50285b",
-"main.dart.js": "33b04175bf0fba47490183dbf124ac00",
+"index.html": "439a4bc84dc28cd9744e5711397b979b",
+"/": "439a4bc84dc28cd9744e5711397b979b",
+"main.dart.js": "fa014b3278fd613a6a1b67e803da7bb1",
 "manifest.json": "d8fe34f7ae4c072a77b924e01dac8a50",
 "version.json": "9b818ca9511483c901bed1545384376c"};
 // The application shell files that are downloaded before a service worker can
